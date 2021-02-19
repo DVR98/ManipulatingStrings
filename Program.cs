@@ -126,7 +126,7 @@ namespace ManipulatingStrings
             double cost = 1234.56;
             Console.WriteLine(cost.ToString("C", new System.Globalization.CultureInfo("en-US")));
 
-            //Using DateTime to format strings
+            //Using DateTime format strings
             Console.WriteLine("DateTime: ");
             DateTime d = new DateTime(2013, 4, 22);
             CultureInfo provider = new CultureInfo("en-US");
@@ -134,6 +134,15 @@ namespace ManipulatingStrings
             Console.WriteLine(d.ToString("D", provider)); // Displays Monday, April 22, 2013
             Console.WriteLine(d.ToString("M", provider)); // Displays April 22
 
+            //Using string.Format
+            Console.WriteLine("string.Format:");
+            DateTime format = DateTime.Now;
+            decimal d2 = 75.743785m;
+            Console.WriteLine("DateTime: {0}", format);
+            Console.WriteLine("Only Date: {0:D}", format);
+            Console.WriteLine("Only Time: {0:T}", format);
+            Console.WriteLine("Format Decimal: {0:n2}", d2);
+            Console.WriteLine("Currency: {0:c}", d2);
         }
 
         //System.String namespace
