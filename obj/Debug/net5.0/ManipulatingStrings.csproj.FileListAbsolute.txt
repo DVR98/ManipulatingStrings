@@ -1,0 +1,16 @@
+D:\Durant\Projects\ManipulatingStrings\bin\Debug\net5.0\ManipulatingStrings.exe
+D:\Durant\Projects\ManipulatingStrings\bin\Debug\net5.0\ManipulatingStrings.deps.json
+D:\Durant\Projects\ManipulatingStrings\bin\Debug\net5.0\ManipulatingStrings.runtimeconfig.json
+D:\Durant\Projects\ManipulatingStrings\bin\Debug\net5.0\ManipulatingStrings.runtimeconfig.dev.json
+D:\Durant\Projects\ManipulatingStrings\bin\Debug\net5.0\ManipulatingStrings.dll
+D:\Durant\Projects\ManipulatingStrings\bin\Debug\net5.0\ref\ManipulatingStrings.dll
+D:\Durant\Projects\ManipulatingStrings\bin\Debug\net5.0\ManipulatingStrings.pdb
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.csprojAssemblyReference.cache
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.AssemblyInfoInputs.cache
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.AssemblyInfo.cs
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.csproj.CoreCompileInputs.cache
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.dll
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ref\ManipulatingStrings.dll
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.pdb
+D:\Durant\Projects\ManipulatingStrings\obj\Debug\net5.0\ManipulatingStrings.genruntimeconfig.cache
